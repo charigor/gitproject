@@ -1,0 +1,16 @@
+#игнорируемые папки
+/node_modules/ 
+/dist/
+/app/css/
+/app/fonts/
+/app/img/
+/app/js/
+/app/libs/
+/app/sass/
+/app/ht.access
+/**/*.psd
+/**/Thumbs.db
+readme.md
+.bowerrc
+gulpfile.js
+package.json
